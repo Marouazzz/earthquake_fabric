@@ -1,15 +1,5 @@
 # Earthquake-Data-Engineering-Project-with-Microsoft-Fabric
 
-## Project Overview
-Learn to build an end to end data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences. 
-
-Ingesting Earthquake events data from [usgs](https://earthquake.usgs.gov/). 
-
-Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
-
-## Getting Started
-To get started with this project, downalod the notebooks in the repository and follow the guidance provided in the YouTube tutorial.
-
 ## Repository Contents
 `Worldwide Earthquake Events API - Bronze Layer Processing`: This notebook focuses on ingesting raw earthquake data from the USGS API. It performs minimal processing to store data in its original format, serving as the foundational layer for further refinement.
 
